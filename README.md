@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Nirmala 👋
 
-<!--
-**nirmala-portfolio/nirmala-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A Front-End Developer passionate about building clean and responsive web apps using React, TypeScript, and Chakra UI.
 
-Here are some ideas to get you started:
+🚀 I’ve built:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Product Management System
+
+A Game Discovery App using RAWG API
+
+An Expense Tracker with live updates
+
+💡 I'm learning:
+
+OpenAI API integrations
+
+Full-stack project architecture
+
+📫 Let's connect:
+https://www.linkedin.com/feed/ 
+
+🌱 “The harder the struggle, the greater the triumph.”
